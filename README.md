@@ -1,2 +1,2 @@
-# bonsai-theme
-VS Code bonsai color theme.
+# steel-curtain
+Fan-made Pitsburg Steeler vs-code editor theme.
